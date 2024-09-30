@@ -1,6 +1,6 @@
 ### Hello! I'm Eric 👋
 
-- 💬 Ask me about MERN stack
+- 💬 Ask me about Web Development and Software Project Managment
 - 📫 How to reach me: dav.ndungutse@gmail.com
 - ⚡ Fun fact: My perfect day would start with workout
 
